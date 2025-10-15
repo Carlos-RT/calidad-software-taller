@@ -1,0 +1,7 @@
+organization=carlos-rt
+projectKey=Carlos-RT_calidad-software-taller
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.68631
+dashboardUrl=https://sonarcloud.io/dashboard?id=Carlos-RT_calidad-software-taller
+ceTaskId=AZnm13AZ7rXcQ1_iMJWr
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZnm13AZ7rXcQ1_iMJWr
